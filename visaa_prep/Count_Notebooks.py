@@ -1,2 +1,2 @@
-x=int(input())
-print((x*1000)//100)
+N=int(input())
+print((N*1000)//100)
